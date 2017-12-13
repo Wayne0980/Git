@@ -1,0 +1,2 @@
+1. first:construct a new master
+2. create a new branch and commit
